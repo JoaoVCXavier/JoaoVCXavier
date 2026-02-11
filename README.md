@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o João Xavier</h1>
 
-<!--
-**JoaoVCXavier/JoaoVCXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0D8ABC&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Foco+em+Full+Stack;Sempre+aprendendo+e+evoluindo" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de tecnologia, focado no desenvolvimento de soluções práticas e na evolução constante como desenvolvedor.  
+Atualmente, estou construindo uma base sólida em **desenvolvimento Full Stack**, com maior interesse em **back-end**.
+
+Tenho experiência com **JavaScript**, **Python**, **Java** e tecnologias web, além de familiaridade com versionamento de código e boas práticas de desenvolvimento.
+
+Busco crescer profissionalmente através de projetos reais, aprendizado contínuo e colaboração em equipe.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoVCXavier&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVCXavier&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <im
