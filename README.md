@@ -23,14 +23,3 @@ Busco crescer profissionalmente através de projetos reais, aprendizado contínu
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,git,github,vscode" />
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoVCXavier&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVCXavier&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <im
