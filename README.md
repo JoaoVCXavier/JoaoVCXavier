@@ -11,7 +11,7 @@
 Sou estudante de tecnologia, focado no desenvolvimento de soluções práticas e na evolução constante como desenvolvedor.  
 Atualmente, estou construindo uma base sólida em **desenvolvimento Full Stack**.
 
-Tenho experiência com **JavaScript**, **Python**, **Java** e tecnologias web, além de familiaridade com versionamento de código e boas práticas de desenvolvimento.
+Tenho experiência com **JavaScript**, **Java** e tecnologias web, além de familiaridade com versionamento de código e boas práticas de desenvolvimento.
 
 Busco crescer profissionalmente através de projetos reais, aprendizado contínuo e colaboração em equipe.
 
