@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o João Xavier</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0D8ABC&size=22&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+evolução;Automação+com+IA+e+N8N;Criando+soluções+reais+com+Inteligência+Artificial;Foco+em+Back-end,+Sistemas+e+Automação" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0D8ABC&size=22&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+evolução;Automação+com+IA+e+N8N;Criando+soluções+reais+com+Inteligência+Artificial;Foco+em+Back-end,+Sistemas+e+Automação" />
 </p>
 
 ---
